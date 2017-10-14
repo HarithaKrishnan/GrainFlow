@@ -1,0 +1,14 @@
+{
+  "name": "GrainFlow",
+  "email": "",
+  "app_id": "",
+  "package_name": "",
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  },
+  "type": "ionic1",
+  "gulp": {
+    "enabled": false
+  }
+}
